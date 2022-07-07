@@ -1,2 +1,2 @@
 # Slide-bar
-magic navigation with (pure html css and javascript).
+Slide bar with (pure html css and javascript).
